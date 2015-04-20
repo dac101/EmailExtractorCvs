@@ -1,0 +1,13 @@
+C:\Users\dacorie\Documents\Visual Studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\bin\Debug\AlgothrimDevelopment.exe.config
+C:\Users\dacorie\Documents\Visual Studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\bin\Debug\AlgothrimDevelopment.exe
+C:\Users\dacorie\Documents\Visual Studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\bin\Debug\AlgothrimDevelopment.pdb
+C:\Users\dacorie\Documents\Visual Studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\obj\Debug\AlgothrimDevelopment.exe
+C:\Users\dacorie\Documents\Visual Studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\obj\Debug\AlgothrimDevelopment.pdb
+C:\Users\dacorie\Documents\Visual Studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\obj\Debug\AlgothrimDevelopment.csprojResolveAssemblyReference.cache
+C:\Users\dacorie\Documents\Visual Studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\bin\Debug\CsvHelper.dll
+C:\Users\dacorie\Documents\Visual Studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\bin\Debug\CsvHelper.pdb
+C:\Users\dacorie\Documents\Visual Studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\bin\Debug\CsvHelper.xml
+C:\Users\dacorie\Documents\Visual Studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\bin\Debug\EntityFramework.dll
+C:\Users\dacorie\Documents\Visual Studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dacorie\Documents\Visual Studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\bin\Debug\EntityFramework.xml
+C:\Users\dacorie\Documents\Visual Studio 2013\Projects\AlgothrimDevelopment\AlgothrimDevelopment\bin\Debug\EntityFramework.SqlServer.xml
